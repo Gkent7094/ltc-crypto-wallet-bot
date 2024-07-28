@@ -2,7 +2,7 @@ Terms of Service
 
 Last Updated: [07/28/2024]
 
-Welcome to ltc crypto wallet bot. These Terms of Service ("Terms") govern your use of our Discord LTC (Litecoin) crypto wallet bot ("Service"), which provides you with the ability to create and manage LTC wallets through Discord.
+Welcome to our ltc crypto wallets bot. These Terms of Service ("Terms") govern your use of our Discord LTC (Litecoin) crypto wallet bot ("Service"), which provides you with the ability to create and manage LTC wallets through Discord.
 
 1. Acceptance of Terms
 
@@ -61,4 +61,4 @@ If you have any questions or concerns about these Terms or the Service, please c
 
 13. Entire Agreement
 
-These Terms constitute the entire agreement between you and ltc crypto wallet bot regarding your use of the Service and supersede all prior agreements and understandings, whether written or oral, relating to the Service.
+These Terms constitute the entire agreement between you and ltc crypto wallets bot regarding your use of the Service and supersede all prior agreements and understandings, whether written or oral, relating to the Service.
