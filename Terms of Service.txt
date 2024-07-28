@@ -1,0 +1,64 @@
+Terms of Service
+
+Last Updated: [07/28/2024]
+
+Welcome to ltc crypto wallet bot. These Terms of Service ("Terms") govern your use of our Discord LTC (Litecoin) crypto wallet bot ("Service"), which provides you with the ability to create and manage LTC wallets through Discord.
+
+1. Acceptance of Terms
+
+By using our Service, you agree to these Terms. If you do not agree with these Terms, you must not use our Service.
+
+2. Service Description
+
+Our Service allows users to:
+
+Create a LTC wallet through our Discord bot.
+Hold LTC in the wallet.
+Send LTC to other addresses.
+maybe buy LTC (not decided yet)
+3. User Responsibilities
+
+Eligibility: You must be at least 14 years old to use our Service. By using our Service, you represent and warrant that you meet these requirements.
+Account Security: You are responsible for maintaining the confidentiality of your wallet information and for all activities that occur under your account. Notify us immediately if you suspect any unauthorized use of your account.
+Legal Compliance: You must comply with all applicable laws and regulations regarding the use of cryptocurrencies in your jurisdiction.
+4. Use of the Service
+
+Wallet Creation: Our Service will generate a LTC wallet for you upon request. You are responsible for the management and security of the wallet.
+Funds Management: We do not control or hold your LTC funds. You are responsible for the accuracy of transactions and ensuring sufficient balance in your wallet for transactions.
+Transaction Fees: Transactions made using our Service may be subject to network fees which are not controlled by us.
+5. Risks and Limitations
+
+Volatility: Cryptocurrency markets are highly volatile. We do not guarantee any particular value or stability for your LTC holdings.
+Security: While we implement measures to protect your data, we cannot guarantee the security of your wallet or transactions. You are responsible for your own security practices.
+Service Availability: We do not guarantee that our Service will be available at all times. We may perform maintenance or updates which could temporarily impact service availability.
+6. Intellectual Property
+
+All intellectual property rights related to our Service, including but not limited to software, design, and content, are owned by us or our licensors. You are granted a limited, non-exclusive, non-transferable license to use our Service as provided.
+
+7. Limitation of Liability
+
+To the maximum extent permitted by law, [Your Bot's Name] is not liable for any indirect, incidental, special, consequential, or punitive damages arising from or related to your use of our Service. Our total liability is limited to the amount you have paid for the use of our Service.
+
+8. Indemnification
+
+You agree to indemnify and hold harmless [Your Bot's Name], its affiliates, and their respective officers, directors, employees, and agents from and against any claims, liabilities, damages, losses, or expenses arising from your use of the Service or violation of these Terms.
+
+9. Modifications to Terms
+
+We reserve the right to modify these Terms at any time. We will notify you of any significant changes by posting the updated Terms in our Discord server or through other appropriate means. Your continued use of the Service after any changes constitutes your acceptance of the revised Terms.
+
+10. Termination
+
+We may suspend or terminate your access to the Service at our sole discretion, with or without cause, and with or without notice. Upon termination, you must stop using the Service and may lose access to any wallet or funds held.
+
+11. Governing Law
+
+These Terms are governed by and construed in accordance with the laws of Canada, without regard to its conflict of law principles.
+
+12. Contact Us
+
+If you have any questions or concerns about these Terms or the Service, please contact us at gkent7094@gmail.com.
+
+13. Entire Agreement
+
+These Terms constitute the entire agreement between you and ltc crypto wallet bot regarding your use of the Service and supersede all prior agreements and understandings, whether written or oral, relating to the Service.
