@@ -1,0 +1,48 @@
+Privacy Policy
+
+Last Updated: [07/28/2024]
+
+ltc crypto wallet bot is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our Discord LTC (Litecoin) crypto wallet bot ("Service"). By using our Service, you agree to the practices described in this Privacy Policy.
+
+1. Information We Collect
+
+Personal Information: We may collect personal information that you provide directly, such as your Discord username or other identifiers that you use to interact with our Service.
+Wallet Information: We collect and store data related to your LTC wallet, including wallet addresses and transaction history.
+Usage Data: We may collect information about how you use our Service, including IP addresses, device information, and interaction data (e.g., commands used).
+2. How We Use Your Information
+
+Service Provision: We use your information to provide, maintain, and improve our Service, including creating and managing LTC wallets, processing transactions, and providing customer support.
+Communication: We may use your information to communicate with you regarding updates, support, and other relevant information about our Service.
+Security: We use your information to monitor and protect against fraudulent activity and to ensure the security of our Service.
+3. Data Sharing and Disclosure
+
+Service Providers: We may share your information with third-party service providers who assist us in operating and improving our Service. These providers are bound by confidentiality agreements and are only allowed to use your information as necessary to perform their services.
+Legal Requirements: We may disclose your information if required by law or in response to legal requests, such as subpoenas, court orders, or legal processes.
+Business Transfers: In the event of a merger, acquisition, or other business transfer, your information may be transferred as part of that transaction.
+4. Data Security
+
+We implement reasonable security measures to protect your information from unauthorized access, use, or disclosure. However, no security system is impenetrable, and we cannot guarantee the absolute security of your data.
+
+5. Data Retention
+
+We retain your information for as long as necessary to provide our Service and fulfill the purposes described in this Privacy Policy. We may retain certain information as required by law or for legitimate business purposes.
+
+6. Your Choices
+
+Access and Correction: You may access and update your personal information through our Service or by contacting us directly.
+Opt-Out: You can opt-out of receiving promotional communications from us by following the instructions provided in those communications or by contacting us.
+7. Third-Party Links
+
+Our Service may contain links to third-party websites or services. We are not responsible for the privacy practices or content of these third parties. We encourage you to review the privacy policies of any third-party sites you visit.
+
+8. Children's Privacy
+
+Our Service is not intended for use by individuals under the age of 14. We do not knowingly collect personal information from children under 14. If we become aware that we have collected such information, we will take steps to delete it.
+
+9. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. We will notify you of significant changes by posting the updated Privacy Policy in our Discord server or through other appropriate means. Your continued use of the Service after any changes constitutes your acceptance of the revised Privacy Policy.
+
+10. Contact Us
+
+If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at gkent7094@gmail.com.
